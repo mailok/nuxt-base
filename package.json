@@ -4,6 +4,7 @@
   "version": "0.0.1",
   "author": "Angel Nuñez<https://github.com/mailok>",
   "license": "MIT",
+  "private": false,
   "main": "./nuxt.config.ts",
   "scripts": {
     "dev": "nuxi dev playground",
