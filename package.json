@@ -2,6 +2,8 @@
   "name": "@nuxt/base",
   "type": "module",
   "version": "0.0.1",
+  "author": "Angel Nuñez<https://github.com/mailok>",
+  "license": "MIT",
   "main": "./nuxt.config.ts",
   "scripts": {
     "dev": "nuxi dev playground",
