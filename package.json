@@ -1,7 +1,7 @@
 {
   "name": "@mailok/nuxt-base",
   "type": "module",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Angel Nuñez<https://github.com/mailok>",
   "license": "MIT",
   "private": false,
@@ -26,5 +26,8 @@
     "eslint": "^8.57.0",
     "nuxt": "^3.11.1",
     "typescript": "^5.4.3"
+  },
+  "peerDependencies": {
+    "nuxt": "^3.11.1"
   }
 }
